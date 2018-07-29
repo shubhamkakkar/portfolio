@@ -1,0 +1,6 @@
+* all the card-title of skills show typing effect on hover - > should be just one
+* card-title position fluctuates a little on hover -> work-skills 
+
+
+//about
+this.company_name
